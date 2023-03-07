@@ -33,6 +33,7 @@ node_modules
 /.angular/cache
 /.angular/cache/15.2.1
 .angular
+.angular/cache
 .sass-cache/
 /connect.lock
 /coverage
