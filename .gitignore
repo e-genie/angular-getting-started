@@ -31,7 +31,7 @@ node_modules
 
 # Miscellaneous
 /.angular/cache
-.angular/cache/15.2.1
+/.angular/cache/15.2.1
 .angular/cache
 .sass-cache/
 /connect.lock
